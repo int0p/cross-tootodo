@@ -1,0 +1,9 @@
+{
+		"webDir":"build",
+		"appId":"tootodo.ionic.io",
+		"appName":"tootodo",
+		"_server": {
+		  "url": "http://192.168.35.113:5173/",
+		  "cleartext": true
+		}
+	}
